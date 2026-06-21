@@ -1,10 +1,10 @@
 # HTML CSS JS Portfolio
 
-Ce depot contient un portfolio personnel statique realise avec HTML, CSS et JavaScript. Il presente le profil de Mame Libasse Laye Sylla, ses competences, son parcours, ses projets et ses informations de contact.
+Ce depot contient un portfolio personnel statique realise avec HTML, CSS et JavaScript à mes débuts en developpement... Il presente mon profil avec mes competences, mon parcours, mes projets et mes informations de contact.
 
-## Probleme resolu
+## But Du Projet
 
-Un portfolio permet de regrouper dans une seule page les informations importantes d'un profil developpeur : presentation, competences, experience, projets, CV, GitHub, LinkedIn et contact. Ce projet sert aussi de pratique concrete pour construire une interface responsive avec HTML, CSS et JavaScript sans framework.
+Se créer une identité dans le numérique à travers un portfolio, mettant en exergue les informations importantes d'un profil developpeur : presentation, competences, experience, projets, CV, GitHub, LinkedIn et contact. Ce projet sert aussi de pratique concrete pour construire une interface responsive avec HTML, CSS et JavaScript sans framework.
 
 ## Fonctionnalites
 
@@ -21,8 +21,7 @@ Un portfolio permet de regrouper dans une seule page les informations importante
 
 - HTML5
 - CSS3
-- JavaScript vanilla
-- Google Fonts avec la police Poppins
+- JavaScript
 
 ## Structure du projet
 
@@ -58,7 +57,6 @@ git clone https://github.com/libsss01/html-css-js-portfolio.git
 
 2. Ouvrir le fichier `index.html` dans un navigateur.
 
-Vous pouvez aussi utiliser une extension comme Live Server dans VS Code pour profiter du rechargement automatique.
 
 ## Sections de la page
 
@@ -70,12 +68,7 @@ Vous pouvez aussi utiliser une extension comme Live Server dans VS Code pour pro
 
 ## Pistes d'amelioration
 
-- Corriger les liens des projets avec les vrais depots et demos.
-- Ajouter les assets manquants dans le depot.
-- Harmoniser les noms de classes et corriger les petites fautes de texte.
-- Ajouter une version anglaise/francaise si le portfolio vise plusieurs publics.
-- Ajouter des balises meta SEO et Open Graph.
-- Ajouter une section "Formation" dediee si le parcours doit etre plus visible.
+- V1 du portfolio réalisé en 2025, Une version mise à jour aligné avec les compétences aquises est en préparation.
 
 ## Auteur
 
